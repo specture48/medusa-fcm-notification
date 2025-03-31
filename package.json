@@ -1,6 +1,6 @@
 {
-  "name": "@specture48/medusa-fcm-notification",
-  "version": "2.6.1",
+  "name": "medusa-fcm-notification",
+  "version": "0.0.1",
   "description": "Firebase Cloud Messaging (FCM) notification provider for Medusa",
   "main": "dist/index.js",
   "repository": {
