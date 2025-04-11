@@ -2,7 +2,7 @@
 # Medusa FCM Notification Plugin
 
 Firebase Cloud Messaging (FCM) push notification provider for Medusa.  
-Supports sending to both **device tokens** and **topics** using `fcm` and `fcm-topic` channels.
+Supports sending to both **device tokens** and **topics** using `fcm-token` and `fcm-topic` channels.
 ```
 ## Installation
 
